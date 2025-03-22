@@ -7,23 +7,20 @@ This is a machine learning project built using Jupyter Notebook to predict the l
 - Feature selection and scaling
 - Model building using:
   - Logistic Regression
-  - Decision Tree
-  - Random Forest
 - Model evaluation using:
   - Accuracy
   - Confusion Matrix
-  - Precision, Recall, F1-Score
-- Visualizations using Matplotlib and Seaborn
+  - Precision
+- Visualizations using Matplotlib
 
 ## 🛠️ Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn (sklearn)
+- Matplotlib
 
 ## 📈 Results
-- Achieved an accuracy of **XX%** (Replace with your actual result)
+- Achieved an accuracy of 77%
 
 ## 📁 How to Run
 1. Clone the repository:
